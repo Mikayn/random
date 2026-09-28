@@ -1,6 +1,8 @@
 {
+  "keys":[{
     "kty": "RSA",
     "e": "AQAB",
     "kid": "binblock-2026",
     "n": "ozuHm_qvn5WgpHcdXcgQaSFM7y9AHJklfJa3J2x_FCgpOyS9drrIx8zs4S4BweR7l8w7eJH99YXUrQCB9AprmFzOvgEGe77SI8QM30zOyWMncy3EUOluu7-8ivKn_8JhUlPDzwI5_NOMU1Naq1ZeX8YL2pT-NyE3wAOWo0R0lDJMQ2pAJuWiisPDavF-gVpzCU3XkZZugY4vtAkO3Ea0gFBhglVL81gfBGSxI6pwJ1ByVRnPFU6_8H20X6J6NxSSxZCJE2aGGQDat7cYFRK4RZwUx842J8fluryTaHmqAE-IsBnhWCD4f4kDUZXYxMv8UEhuEtCvZvvt16qI6CQ-Kw"
+}]
 }
